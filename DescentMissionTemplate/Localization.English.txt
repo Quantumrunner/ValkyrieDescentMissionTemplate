@@ -1,0 +1,25 @@
+.,English
+quest.name,Descent - Mission Template
+quest.description,This is a mission template for descent missions.
+EventStartRound.button1,Continue
+EventEndRound.button1,Continue
+TokenSearch2Players1.button1,{action} Search
+TokenSearch2Players2.button1,{action} Search
+TokenSearch3Players.button1,{action} Search
+TokenSearch4Players.button1,{action} Search
+EventTokenSearch2Players1.text,<i>Add some flavor text here.</i>\n\nYou find {var:TokenSearch2Players1Gold} gold.\n\nDraw a search card and discard this token.
+EventTokenSearch2Players1.button1,Continue
+EventTokenSearch2Players2.text,<i>Add some flavor text here.</i>\n\nYou find {var:TokenSearch2Players2Gold} gold.\n\nDraw a search card and discard this token.
+EventTokenSearch2Players2.button1,Continue
+EventTokenSearch3Players.text,<i>Add some flavor text here.</i>\n\nYou find {var:TokenSearch3PlayersGold} gold.\n\nDraw a search card and discard this token.
+EventTokenSearch3Players.button1,Continue
+EventTokenSearch4Players.text,<i>Add some flavor text here.</i>\n\nYou find {var:TokenSearch4PlayersGold} gold.\n\nDraw a search card and discard this token.
+EventTokenSearch4Players.button1,Continue
+TokenSearch4Players.text,<i>Add some 'heroes have found something'-flavor text here.</i>
+TokenSearch3Players.text,<i>Add some 'heroes have found something'-flavor text here.</i>
+TokenSearch2Players2.text,<i>Add some 'heroes have found something'-flavor text here.</i>
+TokenSearch2Players1.text,<i>Add some 'heroes have found something'-flavor text here.</i>
+EventVictory.button1,Continue
+EventDefeat.text,<i>Add some flavor text here.</i>\n\n<b>The heroes have lost this encounter!</b>
+EventDefeat.button1,Continue
+EventVictory.text,<i>Add some flavor text here.</i>\n\n<b>The heroes have won this encounter!</b>

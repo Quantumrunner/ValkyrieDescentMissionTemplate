@@ -23,6 +23,8 @@ TokenSearch3Players.text,<i>Add some 'heroes have found something'-flavor text h
 TokenSearch2Players2.text,<i>Add some 'heroes have found something'-flavor text here.</i>
 TokenSearch2Players1.text,<i>Add some 'heroes have found something'-flavor text here.</i>
 EventVictory.button1,{qst:ContinueButton}
-EventDefeat.text,<i>Add some flavor text here.</i>\n\n<b>The heroes have lost this encounter!</b>
-EventDefeat.button1,{qst:ContinueButton}
 EventVictory.text,<i>Add some flavor text here.</i>\n\n<b>The heroes have won this encounter!</b>
+EventDefeat.button1,{qst:ContinueButton}
+EventDefeat.text,<i>Add some flavor text here.</i>\n\n<b>The heroes have lost this encounter!</b>
+EventNoMorale.button1,{qst:ContinueButton}
+EventNoMorale.text,<i>Add NoMorale-flavor text here.</i>

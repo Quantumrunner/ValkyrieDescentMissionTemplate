@@ -1,7 +1,7 @@
 .,English
 ContinueButton,Continue
 SearchButton,{action} Search
-quest.name,Descent - Mission Template
+quest.name,Valkyrie - Descent - Mission Template
 quest.description,This is a mission template for descent missions.
 EventStart.button1,{qst:ContinueButton}
 EventStartRound.button1,{qst:ContinueButton}

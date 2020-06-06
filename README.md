@@ -4,4 +4,4 @@ This is a mission template for creating [Descent: Journeys in the Dark (Second E
 If you only want to create a campaign with multiple missions instead please check the [Valkyrie Descent Campaign Template](https://github.com/Quantumrunner/ValkyrieDescentCampaignTemplate) instead
 
 # Wiki
-Please see the wiki how to use this template.
+Please see the [wiki](https://github.com/Quantumrunner/ValkyrieDescentMissionTemplate/wiki) for details how to use this template.

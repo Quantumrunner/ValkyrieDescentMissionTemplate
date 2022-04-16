@@ -2,7 +2,7 @@
 ContinueButton,Continue
 SearchButton,{action} Search
 quest.name,Descent - Mission Template
-quest.description,This is a mission template for descent missions
+quest.description,"This is a mission template for descent missions.\nDetails: https://github.com/Quantumrunner/ValkyrieDescentMissionTemplate/wiki"
 DoorButton,{action} Open Door
 DoorRuleText,You can open this door with an <b>Open Door</b> action.
 EventStart.button1,{qst:ContinueButton}
@@ -12,22 +12,22 @@ TokenSearch2Players1.button1,{qst:SearchButton}
 TokenSearch2Players2.button1,{qst:SearchButton}
 TokenSearch3Players.button1,{qst:SearchButton}
 TokenSearch4Players.button1,{qst:SearchButton}
-EventTokenSearch2Players1.text,<i>Add some flavor text here.</i>\n\nYou find {var:TokenSearch2Players1Gold} gold.\n\nDraw a search card and discard this token.
+EventTokenSearch2Players1.text,"<i>Add some flavor text here.</i>\n\nYou find {var:TokenSearch2Players1Gold} gold.\n\nDraw a search card and discard this token."
 EventTokenSearch2Players1.button1,{qst:ContinueButton}
-EventTokenSearch2Players2.text,<i>Add some flavor text here.</i>\n\nYou find {var:TokenSearch2Players2Gold} gold.\n\nDraw a search card and discard this token.
+EventTokenSearch2Players2.text,"<i>Add some flavor text here.</i>\n\nYou find {var:TokenSearch2Players2Gold} gold.\n\nDraw a search card and discard this token."
 EventTokenSearch2Players2.button1,{qst:ContinueButton}
-EventTokenSearch3Players.text,<i>Add some flavor text here.</i>\n\nYou find {var:TokenSearch3PlayersGold} gold.\n\nDraw a search card and discard this token.
+EventTokenSearch3Players.text,"<i>Add some flavor text here.</i>\n\nYou find {var:TokenSearch3PlayersGold} gold.\n\nDraw a search card and discard this token."
 EventTokenSearch3Players.button1,{qst:ContinueButton}
-EventTokenSearch4Players.text,<i>Add some flavor text here.</i>\n\nYou find {var:TokenSearch4PlayersGold} gold.\n\nDraw a search card and discard this token.
+EventTokenSearch4Players.text,"<i>Add some flavor text here.</i>\n\nYou find {var:TokenSearch4PlayersGold} gold.\n\nDraw a search card and discard this token."
 EventTokenSearch4Players.button1,{qst:ContinueButton}
 TokenSearch4Players.text,<i>Add some 'heroes have found something'-flavor text here.</i>
 TokenSearch3Players.text,<i>Add some 'heroes have found something'-flavor text here.</i>
 TokenSearch2Players2.text,<i>Add some 'heroes have found something'-flavor text here.</i>
 TokenSearch2Players1.text,<i>Add some 'heroes have found something'-flavor text here.</i>
 EventVictory.button1,{qst:ContinueButton}
-EventDefeat.text,<i>Add some flavor text here.</i>\n\n<b>The heroes have lost this encounter!</b>
+EventDefeat.text,"<i>Add some flavor text here.</i>\n\n<b>The heroes have lost this encounter!</b>"
 EventDefeat.button1,{qst:ContinueButton}
-EventVictory.text,<i>Add some flavor text here.</i>\n\n<b>The heroes have won this encounter!</b>
+EventVictory.text,"<i>Add some flavor text here.</i>\n\n<b>The heroes have won this encounter!</b>"
 TokenDebug.button1,Victory
 TokenDebug.button2,Defeat
 TokenDebug.text,Click a button to simulate losing or winning.
@@ -37,11 +37,11 @@ EventSetup.button1,{qst:ContinueButton}
 EventIntroduction.text,<i>Add introduction text here.</i>
 EventIntroduction.button1,{qst:ContinueButton}
 EventSetup.text,Set aside the following tiles:
-Door1.text,<i>Add some flavor text here.</i>\n\n{qst:DoorRuleText}
+Door1.text,"<i>Add some flavor text here.</i>\n\n{qst:DoorRuleText}"
 Door1.button1,{qst:DoorButton}
-Door2.text,<i>Add some flavor text here.</i>\n\n{qst:DoorRuleText}
+Door2.text,"<i>Add some flavor text here.</i>\n\n{qst:DoorRuleText}"
 Door2.button1,{qst:DoorButton}
-Door3.text,<i>Add some flavor text here.</i>\n\n{qst:DoorRuleText}
+Door3.text,"<i>Add some flavor text here.</i>\n\n{qst:DoorRuleText}"
 Door3.button1,{qst:DoorButton}
-Door4.text,<i>Add some flavor text here.</i>\n\n{qst:DoorRuleText}
+Door4.text,"<i>Add some flavor text here.</i>\n\n{qst:DoorRuleText}"
 Door4.button1,{qst:DoorButton}

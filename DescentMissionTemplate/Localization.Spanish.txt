@@ -1,8 +1,8 @@
-﻿.,Spanish
+.,Spanish
 ContinueButton,Continuar
 SearchButton,{action} Búsqueda
-quest.name,Descenso - Plantilla de misión
-quest.description,Esta es una plantilla de misión para misiones de descenso
+quest.name,Descent - Plantilla de misión
+quest.description,Esta es una plantilla de misión para misiones de Descent\nDetails: https://github.com/Quantumrunner/ValkyrieDescentMissionTemplate/wiki"
 DoorButton,{action} Abrir puerta
 DoorRuleText,Puede abrir esta puerta con una acción <b>Abrir puerta</b> .
 EventStart.button1,{qst:ContinueButton}
@@ -12,22 +12,22 @@ TokenSearch2Players1.button1,{qst:SearchButton}
 TokenSearch2Players2.button1,{qst:SearchButton}
 TokenSearch3Players.button1,{qst:SearchButton}
 TokenSearch4Players.button1,{qst:SearchButton}
-EventTokenSearch2Players1.text,<i>Agregue un poco de texto de sabor aquí.</i>\n\nEncuentras oro {var:TokenSearch2Players1Gold}.\n\nDibuja una tarjeta de búsqueda y descarta este token.
+EventTokenSearch2Players1.text,"<i>Agregue un poco de texto de sabor aquí.</i>\n\nEncuentras oro {var:TokenSearch2Players1Gold}.\n\nDibuja una tarjeta de búsqueda y descarta este token."
 EventTokenSearch2Players1.button1,{qst:ContinueButton}
-EventTokenSearch2Players2.text,<i>Agregue un poco de texto de sabor aquí.</i>\n\nEncuentras oro {var:TokenSearch2Players2Gold}.\n\nDibuja una tarjeta de búsqueda y descarta este token.
+EventTokenSearch2Players2.text,"<i>Agregue un poco de texto de sabor aquí.</i>\n\nEncuentras oro {var:TokenSearch2Players2Gold}.\n\nDibuja una tarjeta de búsqueda y descarta este token."
 EventTokenSearch2Players2.button1,{qst:ContinueButton}
-EventTokenSearch3Players.text,<i>Agregue un poco de texto de sabor aquí.</i>\n\nEncuentras oro {var:TokenSearch3PlayersGold}.\n\nDibuja una tarjeta de búsqueda y descarta este token.
+EventTokenSearch3Players.text,"<i>Agregue un poco de texto de sabor aquí.</i>\n\nEncuentras oro {var:TokenSearch3PlayersGold}.\n\nDibuja una tarjeta de búsqueda y descarta este token."
 EventTokenSearch3Players.button1,{qst:ContinueButton}
-EventTokenSearch4Players.text,<i>Agregue un poco de texto de sabor aquí.</i>\n\nEncuentras oro {var:TokenSearch4PlayersGold}.\n\nDibuja una tarjeta de búsqueda y descarta este token.
+EventTokenSearch4Players.text,"<i>Agregue un poco de texto de sabor aquí.</i>\n\nEncuentras oro {var:TokenSearch4PlayersGold}.\n\nDibuja una tarjeta de búsqueda y descarta este token."
 EventTokenSearch4Players.button1,{qst:ContinueButton}
 TokenSearch4Players.text,<i>Agregue un texto con sabor a 'los héroes han encontrado algo' aquí.</i>
 TokenSearch3Players.text,<i>Agregue un texto con sabor a 'los héroes han encontrado algo' aquí.</i>
 TokenSearch2Players2.text,<i>Agregue un texto con sabor a 'los héroes han encontrado algo' aquí.</i>
 TokenSearch2Players1.text,<i>Agregue un texto con sabor a 'los héroes han encontrado algo' aquí.</i>
 EventVictory.button1,{qst:ContinueButton}
-EventDefeat.text,<i>Agregue un poco de texto de sabor aquí.</i>\n\n<b>¡Los héroes han perdido este encuentro!</b>
+EventDefeat.text,"<i>Agregue un poco de texto de sabor aquí.</i>\n\n<b>¡Los héroes han perdido este encuentro!</b>"
 EventDefeat.button1,{qst:ContinueButton}
-EventVictory.text,<i>Agregue un poco de texto de sabor aquí.</i>\n\n<b>¡Los héroes han ganado este encuentro!</b>
+EventVictory.text,"<i>Agregue un poco de texto de sabor aquí.</i>\n\n<b>¡Los héroes han ganado este encuentro!</b>"
 TokenDebug.button1,Victoria
 TokenDebug.button2,Derrota
 TokenDebug.text,Haga clic en un botón para simular perder o ganar.
@@ -37,11 +37,11 @@ EventSetup.button1,{qst:ContinueButton}
 EventIntroduction.text,<i>Agregue el texto de introducción aquí.</i>
 EventIntroduction.button1,{qst:ContinueButton}
 EventSetup.text,Reserve los siguientes mosaicos:
-Door1.text,<i>Agregue un poco de texto de sabor aquí.</i>\n\n{qst:DoorRuleText}
+Door1.text,"<i>Agregue un poco de texto de sabor aquí.</i>\n\n{qst:DoorRuleText}"
 Door1.button1,{qst:DoorButton}
-Door2.text,<i>Agregue un poco de texto de sabor aquí.</i>\n\n{qst:DoorRuleText}
+Door2.text,"<i>Agregue un poco de texto de sabor aquí.</i>\n\n{qst:DoorRuleText}"
 Door2.button1,{qst:DoorButton}
-Door3.text,<i>Agregue un poco de texto de sabor aquí.</i>\n\n{qst:DoorRuleText}
+Door3.text,"<i>Agregue un poco de texto de sabor aquí.</i>\n\n{qst:DoorRuleText}"
 Door3.button1,{qst:DoorButton}
-Door4.text,<i>Agregue un poco de texto de sabor aquí.</i>\n\n{qst:DoorRuleText}
+Door4.text,"<i>Agregue un poco de texto de sabor aquí.</i>\n\n{qst:DoorRuleText}"
 Door4.button1,{qst:DoorButton}

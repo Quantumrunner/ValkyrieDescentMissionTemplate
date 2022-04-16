@@ -1,0 +1,47 @@
+﻿.,German
+ContinueButton,Fortsetzen
+SearchButton,{action} Suche
+quest.name,Descent- Missions Vorlage
+quest.description,Dies ist ein Missions Vorlage für Descent
+DoorButton,{action} Offene Tür
+DoorRuleText,Sie können diese Tür mit einer <b>Tür öffnen Aktion</b> öffnen.
+EventStart.button1,{qst:ContinueButton}
+EventStartRound.button1,{qst:ContinueButton}
+EventEndRound.button1,{qst:ContinueButton}
+TokenSearch2Players1.button1,{qst:SearchButton}
+TokenSearch2Players2.button1,{qst:SearchButton}
+TokenSearch3Players.button1,{qst:SearchButton}
+TokenSearch4Players.button1,{qst:SearchButton}
+EventTokenSearch2Players1.text,<i>Hier Flavor Text einfügen.</i>\n\nSie finden {var:TokenSearch2Players1Gold} Gold.\n\nZiehen Sie eine Suchkarte und verwerfen Sie dieses Token.
+EventTokenSearch2Players1.button1,{qst:ContinueButton}
+EventTokenSearch2Players2.text,<i>Hier Flavor Text einfügen.</i>\n\nSie finden {var:TokenSearch2Players2Gold} Gold.\n\nZiehen Sie eine Suchkarte und verwerfen Sie dieses Token.
+EventTokenSearch2Players2.button1,{qst:ContinueButton}
+EventTokenSearch3Players.text,<i>Hier Flavor Text einfügen.</i>\n\nSie finden {var:TokenSearch3PlayersGold} Gold.\n\nZiehen Sie eine Suchkarte und verwerfen Sie dieses Token.
+EventTokenSearch3Players.button1,{qst:ContinueButton}
+EventTokenSearch4Players.text,<i>Hier Flavor Text einfügen.</i>\n\nSie finden {var:TokenSearch4PlayersGold} Gold.\n\nZiehen Sie eine Suchkarte und verwerfen Sie dieses Token.
+EventTokenSearch4Players.button1,{qst:ContinueButton}
+TokenSearch4Players.text,<i>Fügen Sie hier einen Text mit dem Geschmack "Helden haben etwas gefunden" hinzu.</i>
+TokenSearch3Players.text,<i>Fügen Sie hier einen Text mit dem Geschmack "Helden haben etwas gefunden" hinzu.</i>
+TokenSearch2Players2.text,<i>Fügen Sie hier einen Text mit dem Geschmack "Helden haben etwas gefunden" hinzu.</i>
+TokenSearch2Players1.text,<i>Fügen Sie hier einen Text mit dem Geschmack "Helden haben etwas gefunden" hinzu.</i>
+EventVictory.button1,{qst:ContinueButton}
+EventDefeat.text,<i>Hier Flavor Text einfügen.</i>\n\n<b>Die Helden haben diese Begegnung verloren!</b>
+EventDefeat.button1,{qst:ContinueButton}
+EventVictory.text,<i>Hier Flavor Text einfügen.</i>\n\n<b>Die Helden haben diese Begegnung gewonnen!</b>
+TokenDebug.button1,Sieg
+TokenDebug.button2,Niederlage
+TokenDebug.text,Klicken Sie auf eine Schaltfläche, um das Verlieren oder Gewinnen zu simulieren.
+EventNoMorale.text,<i>Fügen Sie hier etwas No-Morale-Flavor-Text hinzu.</i>
+EventNoMorale.button1,{qst:ContinueButton}
+EventSetup.button1,{qst:ContinueButton}
+EventIntroduction.text,<i>Fügen Sie hier Einführungstext hinzu.</i>
+EventIntroduction.button1,{qst:ContinueButton}
+EventSetup.text,Legen Sie die folgenden Kacheln beiseite:
+Door1.text,<i>Hier Flavor Text einfügen.</i>\n\n{qst:DoorRuleText}
+Door1.button1,{qst:DoorButton}
+Door2.text,<i>Hier Flavor Text einfügen.</i>\n\n{qst:DoorRuleText}
+Door2.button1,{qst:DoorButton}
+Door3.text,<i>Hier Flavor Text einfügen.</i>\n\n{qst:DoorRuleText}
+Door3.button1,{qst:DoorButton}
+Door4.text,<i>Hier Flavor Text einfügen.</i>\n\n{qst:DoorRuleText}
+Door4.button1,{qst:DoorButton}
